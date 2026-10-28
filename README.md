@@ -1,1 +1,1 @@
-Holberton School Shell - Permissions Project
+Permissions project
